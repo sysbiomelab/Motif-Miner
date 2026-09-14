@@ -1,0 +1,48 @@
+# Nextflow work directories
+work/
+.cache/
+.timeline*
+.trace*
+.report*
+.dag.png
+.session*
+
+# Nextflow execution cache
+.nf-cache/
+.nextflow*
+.nextflow.log*
+
+# Log files
+*.log
+*.err
+*.out
+
+# VSCode settings
+.vscode/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env/
+venv/
+.venv/
+
+# Conda / Mamba environments
+.conda/
+envs/
+*.yaml
+
+# MacOS system files
+.DS_Store
+
+# Temporary files
+*.tmp
+*.swp
+*.swo
+
+# Output directories (optional — add/remove depending on your workflow)
+results/
+output/
+

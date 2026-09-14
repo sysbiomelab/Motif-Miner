@@ -1,0 +1,12 @@
+name: bgc-pipeline-env
+
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+
+dependencies:
+  - python=3.9
+  - pandas=2.2.*
+  - biopython=1.84
+  - mamba
