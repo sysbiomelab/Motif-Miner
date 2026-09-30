@@ -1,0 +1,19 @@
+{
+  "title": "Motif-Miner: de novo transcription factor binding site discovery across biosynthetic gene cluster families",
+  "upload_type": "software",
+  "version": "1.0.0",
+  "license": "MIT",
+  "access_right": "open",
+  "description": "Nextflow pipeline for de novo discovery of conserved transcription factor binding motifs in biosynthetic gene cluster (BGC) families",
+  "creators": [
+    {"name": "Matine, Idris", "affiliation": "Centre for Host-Microbiome Interactions, Faculty of Dentistry, Oral & Craniofacial Sciences, King's College London, London, United Kingdom", "orcid": "0009-0006-0020-6991"},
+    {"name": "Garcia Guevara, Fernando", "affiliation": "Centre for Host-Microbiome Interactions, Faculty of Dentistry, Oral & Craniofacial Sciences, King's College London, London, United Kingdom", "orcid": "0000-0002-5621-6156"},
+    {"name": "Clasen, Frederick", "affiliation": "Centre for Host-Microbiome Interactions, Faculty of Dentistry, Oral & Craniofacial Sciences, King's College London, London, United Kingdom", "orcid": "0009-0001-6197-4584"},
+    {"name": "Guo, Miao", "affiliation": "Department of Engineering, Faculty of Natural, Mathematical & Engineering Sciences, King's College London, London, United Kingdom", "orcid": "0000-0001-7733-5077"},
+    {"name": "Shoaie, Saeed", "affiliation": "Centre for Host-Microbiome Interactions, King's College London, London, United Kingdom; Quantitative Systems Biology, Faculty of Medicine, Biruni University, Istanbul, Turkey", "orcid": "0000-0001-5834-4533"}
+  ],
+  "keywords": ["biosynthetic gene clusters", "transcription factor binding sites", "motif discovery", "gene regulation", "natural products", "Nextflow", "MEME"],
+  "related_identifiers": [
+    {"identifier": "10.5281/zenodo.22766286", "relation": "isSourceOf", "resource_type": "dataset"}
+  ]
+}
